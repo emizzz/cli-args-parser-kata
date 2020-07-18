@@ -1,0 +1,14 @@
+{
+  "name": "cli-args-parser-kata",
+  "version": "1.0.0",
+  "description": "kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
+}
